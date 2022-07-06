@@ -2,7 +2,7 @@
 
 The Mobility Data Specification offers three primary Application Programming Interfaces (APIs): [`agency`](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/agency), [`provider`](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/provider), and [`policy`](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/policy).
 
-Both the `agency` and `provider` APIs allow agencies to gather data about vehicles and trips from a mobility mervice provider. Although the design of the APIs differ, they allow for similar types of data gathering. A city can adopt one or both of these APIs depending on their goals, tools, and resources. See our [Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md) for how to specify endpoint needs in your city policy documents.
+Both the `agency` and `provider` APIs allow agencies to gather data about vehicles and trips from a mobility service provider. Although the design of the APIs differ, they allow for similar types of data gathering. A city can adopt one or both of these APIs depending on their goals, tools, and resources. See our [Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md) for how to specify endpoint needs in your city policy documents.
 
 ## Agency and Provider
 
